@@ -12,5 +12,5 @@ als Excel-Report exportiert.
 - Excel
 
 ## Ziel
-Demonstration der praktischen Anwendung von Wirtschaftsinformatik:
+Demonstration der praktischen Anwendung von Datenanalyse:
 Analyse von Geschäftsdaten und IT-gestützte Entscheidungsunterstützung.
